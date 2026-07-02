@@ -1,0 +1,4 @@
+interface:
+  display_name: "AI Infra Optimizer"
+  short_description: "Profile and optimize AI training/inference"
+  default_prompt: "Use $ai-infra-optimizer to run the baseline task, optimize code logic, profile the bottleneck, then report optimized metrics in tables."
